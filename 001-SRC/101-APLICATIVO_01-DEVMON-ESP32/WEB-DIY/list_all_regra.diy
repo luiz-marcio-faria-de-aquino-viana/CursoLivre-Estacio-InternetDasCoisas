@@ -1,0 +1,23 @@
+<html>
+
+<body>
+
+<h1>Lista todas as regras:</h1>
+
+<table border="1">
+<tr>
+	<td>Id</td>
+	<td>Nome</td>
+	<td>Campo</td>
+	<td>Operacao</td>
+	<td>Valor</td>
+	<td>seFaca</td>
+	<td>senaoFaca</td>
+</tr>
+#TAG_LISTA_REGRAS#
+</table>
+
+</body>
+
+</html>
+

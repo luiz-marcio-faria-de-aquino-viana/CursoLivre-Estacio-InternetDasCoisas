@@ -1,0 +1,17 @@
+<html>
+
+<body>
+
+<a href="ControleSistema/list_all_evento.diy"><b>*</b>&nbsp;LISTA TODOS OS EVENTOS</a><br/>
+<br/>
+
+<a href="ControleSistema/list_all_rede.diy"><b>*</b>&nbsp;LISTA TODAS AS REDES</a><br/>
+<br/>
+
+<a href="ControleSistema/list_all_regra.diy"><b>*</b>&nbsp;LISTA TODAS AS REGRAS</a><br/>
+<br/>
+
+</body>
+
+</html>
+

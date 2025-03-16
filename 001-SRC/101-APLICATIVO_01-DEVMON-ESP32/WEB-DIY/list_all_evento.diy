@@ -1,0 +1,29 @@
+<html>
+
+<body>
+
+<h1>Lista todos os eventos:</h1>
+
+<table border="1">
+<tr>
+	<td>Id</td>
+	<td>Data</td>
+	<td>Equipamento</td>
+	<td>Movimento</td>
+	<td>Luz&nbsp;Acesa</td>
+	<td>Fumaca</td>
+	<td>Gas&nbsp;Carbonico</td>
+	<td>Gas&nbsp;Natural</td>
+	<td>Temperatura</td>
+	<td>Humidade&nbsp;Ar</td>
+	<td>Ligar&nbsp;Vent</td>
+	<td>Ligar&nbsp;ArCond</td>
+	<td>Ligar&nbsp;Dry</td>
+</tr>
+#TAG_LISTA_EVENTOS#
+</table>
+
+</body>
+
+</html>
+

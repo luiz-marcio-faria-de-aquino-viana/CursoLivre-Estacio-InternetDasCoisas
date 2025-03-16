@@ -1,0 +1,24 @@
+<html>
+
+<body>
+
+<h1>Lista todas as redes:</h1>
+
+<table border="1">
+<tr>
+	<td>Id</td>
+	<td>Num.Pesq.</td>
+	<td>Equipamento</td>
+	<td>SSID</td>
+	<td>BSSID</td>
+	<td>Sinal(dBm)</td>
+	<td>Power(mW)</td>
+	<td>Dist(m)</td>
+</tr>
+#TAG_LISTA_REDES#
+</table>
+
+</body>
+
+</html>
+
