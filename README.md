@@ -33,7 +33,7 @@ Learning From Data, Yaser S. Abu-Mostafa (https://work.caltech.edu/telecourse)
 
 # Nota
 
-Este Curso Livre foi preparado para a Universidade Estácio de Sá, por solicitação do Professor Marcio Suzano, Ph.D. (LinkedIn: https://www.linkedin.com/in/marciosuzano/?originalSubdomain=br).
+Material Didático do Curso Livre, que foi preparado para a Universidade Estácio de Sá - Campus Sulacap, por solicitação do Professor Marcio Suzano, Ph.D. (LinkedIn: https://www.linkedin.com/in/marciosuzano/?originalSubdomain=br), entre Janeiro-Fevereiro/2023.
 
 # Contato
 
