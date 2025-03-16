@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lsRedeView"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/lblRedeSSID"
+            android:text="@string/res_lbl_rede_ssid"
+            android:layout_weight=".2"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/teal_200"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+        <TextView
+            android:id="@+id/txtRedeSSID"
+            android:text="TextView"
+            android:layout_weight=".8"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/white"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/lblRedeBSSID"
+            android:text="@string/res_lbl_rede_bssid"
+            android:layout_weight=".2"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/teal_200"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+        <TextView
+            android:id="@+id/txtRedeBSSID"
+            android:text="TextView"
+            android:layout_weight=".8"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/white"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/lblRedeLevel"
+            android:text="@string/res_lbl_rede_level"
+            android:layout_weight=".2"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/teal_200"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+        <TextView
+            android:id="@+id/txtRedeLevel"
+            android:text="TextView"
+            android:layout_weight=".8"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/white"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/lblRedePowerWatt"
+            android:text="@string/res_lbl_rede_power_watt"
+            android:layout_weight=".2"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/teal_200"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+        <TextView
+            android:id="@+id/txtRedePowerWatt"
+            android:text="TextView"
+            android:layout_weight=".8"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/white"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/lblRedeDistance"
+            android:text="@string/res_lbl_rede_distance"
+            android:layout_weight=".2"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/teal_200"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+        <TextView
+            android:id="@+id/txtRedeDistance"
+            android:text="TextView"
+            android:layout_weight=".8"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/white"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+    </LinearLayout>
+
+</LinearLayout>

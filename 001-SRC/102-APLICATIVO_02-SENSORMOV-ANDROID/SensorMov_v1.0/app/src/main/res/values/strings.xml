@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SensorMovApp</string>
+    <string name="res_tit_redes_disponiveis">Redes Disponiveis:</string>
+    <string name="res_lbl_rede_objectid">ID Objeto:</string>
+    <string name="res_lbl_rede_scannum">Num.Pesquisa:</string>
+    <string name="res_lbl_rede_equipment">Equipamento:</string>
+    <string name="res_lbl_rede_ssid">SSID:</string>
+    <string name="res_lbl_rede_bssid">BSSID:</string>
+    <string name="res_lbl_rede_level">Sinal(dBm):</string>
+    <string name="res_lbl_rede_timestamp">Timestamp</string>
+    <string name="res_lbl_rede_distance">Dist(m):</string>
+    <string name="res_lbl_rede_power_watt">Pot(mW):</string>
+</resources>

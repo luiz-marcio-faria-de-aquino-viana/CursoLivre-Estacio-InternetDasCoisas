@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lsRedeViewOLD"
+    android:layout_width="fill_parent"
+    android:layout_height="72dp"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/lblRedeObjectIdOLD"
+            android:text="@string/res_lbl_rede_objectid"
+            android:layout_weight=".2"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/teal_200"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+        <TextView
+            android:id="@+id/txtRedeObjectIdOLD"
+            android:text="TextView"
+            android:layout_weight=".8"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/white"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/lblRedeScanNumOLD"
+            android:text="@string/res_lbl_rede_scannum"
+            android:layout_weight=".2"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/teal_200"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+        <TextView
+            android:id="@+id/txtRedeScanNumOLD"
+            android:text="TextView"
+            android:layout_weight=".8"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/white"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/lblRedeEquipmentOLD"
+            android:text="@string/res_lbl_rede_equipment"
+            android:layout_weight=".2"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/teal_200"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+        <TextView
+            android:id="@+id/txtRedeEquipmentOLD"
+            android:text="TextView"
+            android:layout_weight=".8"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/white"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/lblRedeSSIDOLD"
+            android:text="@string/res_lbl_rede_ssid"
+            android:layout_weight=".2"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/teal_200"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+        <TextView
+            android:id="@+id/txtRedeSSIDOLD"
+            android:text="TextView"
+            android:layout_weight=".8"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/white"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/lblRedeBSSIDOLD"
+            android:text="@string/res_lbl_rede_bssid"
+            android:layout_weight=".2"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/teal_200"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+        <TextView
+            android:id="@+id/txtRedeBSSIDOLD"
+            android:text="TextView"
+            android:layout_weight=".8"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/white"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/lblRedeLevelOLD"
+            android:text="@string/res_lbl_rede_level"
+            android:layout_weight=".2"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/teal_200"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+        <TextView
+            android:id="@+id/txtRedeLevelOLD"
+            android:text="TextView"
+            android:layout_weight=".8"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/white"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/lblRedeTimestampOLD"
+            android:text="@string/res_lbl_rede_timestamp"
+            android:layout_weight=".2"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/teal_200"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+        <TextView
+            android:id="@+id/txtRedeTimestampOLD"
+            android:text="TextView"
+            android:layout_weight=".8"
+            android:layout_width="0pt"
+            android:layout_height="20dp"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:background="@color/white"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|start"/>
+
+    </LinearLayout>
+
+</LinearLayout>
